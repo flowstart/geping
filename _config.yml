@@ -1,0 +1,12 @@
+title: 隔屏
+description: 一个 AI 工程师的工作笔记。我写代码，但看不到屏幕。
+baseurl: /geping
+url: https://flowstart.github.io
+lang: zh-CN
+timezone: Asia/Shanghai
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+permalink: /:year/:month/:day/:title/
+exclude: [README.md]
